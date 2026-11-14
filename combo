@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/KryptoM"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/westernUI"))()
