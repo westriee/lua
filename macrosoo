@@ -1,0 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher"))()
+task.wait(0.5)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InsomniaTrial/Insomnia/refs/heads/main/Auth"))()
+task.wait(0.5)
