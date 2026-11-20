@@ -1,5 +1,7 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/westernUI"))()
 task.wait(1.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher"))()
-task.wait(1.5)
+task.wait(2.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/KryptoM"))()
+task.wait(5.0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/Tests/refs/heads/main/1"))()
