@@ -4,4 +4,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/hea
 task.wait(1.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher"))()
 task.wait(2.5)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/Tests/refs/heads/main/1"))()
+getgenv().SCRIPT_KEY = "1c445cf7-96e4-4124-abd7-a5a52b525bb2"
+oadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/Tests/refs/heads/main/1"))()
