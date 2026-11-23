@@ -1,10 +1,10 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/westernUI"))()
 task.wait(1.5)
 loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-FREE-BUNDLES-l-FE-241758"))()
-task.wait(2.0)
+task.wait(3.5)
 getgenv().SCRIPT_KEY = "be10f4b3-e500-4af7-8345-5f5ae208a50e"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/KryptoM"))()
-task.wait(1.5)
+task.wait(3.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher"))()
 task.wait(5.0)
 getgenv().SCRIPT_KEY = "be10f4b3-e500-4af7-8345-5f5ae208a50e"
