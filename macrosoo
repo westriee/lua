@@ -2,8 +2,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/hea
 task.wait(1.5)
 getgenv().SCRIPT_KEY = ""
 loadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/lua/refs/heads/main/KryptoM"))()
-task.wait(1.5)
+task.wait(2.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/refs/heads/main/HoldNigher"))()
-task.wait(1.5)
+task.wait(2.5)
 getgenv().SCRIPT_KEY = ""
 oadstring(game:HttpGet("https://raw.githubusercontent.com/westriee/Tests/refs/heads/main/1"))()
